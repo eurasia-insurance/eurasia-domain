@@ -1,0 +1,13 @@
+tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_CONTACT_PHONE = Contact phone
+tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_CONTACT_PHONE_UNDEFINED = Undefined
+
+tech.lapsa.eurasia.domain.DisplayNameElements.POST_ADDRESS = Post address
+
+tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_CONTACT_EMAIL = Contact email
+tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_CONTACT_EMAIL_UNDEFINED = Undefined
+
+tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_POINT_OF_SALE = Point of sale
+
+tech.lapsa.eurasia.domain.DisplayNameElements.GEO_POINT = Geographic coordinate
+tech.lapsa.eurasia.domain.DisplayNameElements.GEO_POINT_LAT = latitude
+tech.lapsa.eurasia.domain.DisplayNameElements.GEO_POINT_LNG = longitude

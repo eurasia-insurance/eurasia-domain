@@ -1,0 +1,13 @@
+tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_CONTACT_PHONE = =KAZ= Контактный телефон
+tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_CONTACT_PHONE_UNDEFINED = =KAZ= Не задан
+
+tech.lapsa.eurasia.domain.DisplayNameElements.POST_ADDRESS = =KAZ= Почтовый адрес
+
+tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_CONTACT_EMAIL = =KAZ= Контактный email
+tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_CONTACT_EMAIL_UNDEFINED = =KAZ= Не задан
+
+tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_POINT_OF_SALE = =KAZ= Офис продаж
+
+tech.lapsa.eurasia.domain.DisplayNameElements.GEO_POINT = =KAZ= Географические координаты
+tech.lapsa.eurasia.domain.DisplayNameElements.GEO_POINT_LAT = =KAZ= широта
+tech.lapsa.eurasia.domain.DisplayNameElements.GEO_POINT_LNG = =KAZ= долгота
