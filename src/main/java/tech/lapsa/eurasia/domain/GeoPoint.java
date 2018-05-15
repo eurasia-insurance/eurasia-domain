@@ -18,13 +18,25 @@ public class GeoPoint extends Domain {
 
     private static final long serialVersionUID = 1L;
 
+    // latitude
+
     @Basic
     @Column(name = "GEO_LATITUDE")
     private double latitude;
 
+    public double getLatitude() {
+	return latitude;
+    }
+
     @Basic
     @Column(name = "GEO_LONGITUDE")
     private double longitude;
+
+    public double getLongitude() {
+	return longitude;
+    }
+
+    // constructors
 
     public GeoPoint() {
     }
@@ -33,6 +45,8 @@ public class GeoPoint extends Domain {
 	this.latitude = latitude;
 	this.longitude = longitude;
     }
+
+    // other
 
     private static final NumberFormat GEO_LONG_NUMBER_FORMAT = NumberFormat.getNumberInstance();
     {
@@ -55,23 +69,5 @@ public class GeoPoint extends Domain {
 
 	return sb.append(sj.toString()) //
 		.toString();
-    }
-
-    // GENERATED
-
-    public double getLatitude() {
-	return latitude;
-    }
-
-    public void setLatitude(final double latitude) {
-	this.latitude = latitude;
-    }
-
-    public double getLongitude() {
-	return longitude;
-    }
-
-    public void setLongitude(final double longitude) {
-	this.longitude = longitude;
     }
 }
