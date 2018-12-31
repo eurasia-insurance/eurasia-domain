@@ -317,9 +317,4 @@
 		<tag>HEAD</tag>
 	</scm>
 
-	<issueManagement>
-		<system>gitlab</system>
-		<url>https://gitlab.lapsa.tech/lapsa/eurasia/domain/issues</url>
-	</issueManagement>
-
 </project>
