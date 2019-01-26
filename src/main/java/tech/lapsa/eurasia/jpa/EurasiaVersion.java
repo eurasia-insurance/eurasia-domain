@@ -7,7 +7,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "EURASIA_VER_1_0")
+@Table(name = "EURASIA_VER_2")
 @Access(AccessType.PROPERTY)
 public class EurasiaVersion {
 
