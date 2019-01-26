@@ -16,10 +16,6 @@ public enum DisplayNameElements implements LocalizedElement {
     COMPANY_CONTACT_EMAIL_UNDEFINED,
     //
     COMPANY_POINT_OF_SALE,
-    //
-    GEO_POINT,
-    GEO_POINT_LAT,
-    GEO_POINT_LNG,
     ;
 
     public Function<String, String> fieldAsCaptionMapper(final LocalizationVariant variant,

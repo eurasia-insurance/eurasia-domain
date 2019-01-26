@@ -7,7 +7,3 @@ tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_CONTACT_EMAIL = Contact em
 tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_CONTACT_EMAIL_UNDEFINED = Undefined
 
 tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_POINT_OF_SALE = Point of sale
-
-tech.lapsa.eurasia.domain.DisplayNameElements.GEO_POINT = Geographic coordinate
-tech.lapsa.eurasia.domain.DisplayNameElements.GEO_POINT_LAT = latitude
-tech.lapsa.eurasia.domain.DisplayNameElements.GEO_POINT_LNG = longitude

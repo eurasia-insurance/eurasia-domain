@@ -10,7 +10,6 @@
 		<class>com.lapsa.international.phone.converter.jpa.PhoneNumberAttributeConverter</class>
 
 		<class>tech.lapsa.eurasia.domain.EntitySuperclass</class>
-		<class>tech.lapsa.eurasia.domain.GeoPoint</class>
 		<class>tech.lapsa.eurasia.domain.PostAddress</class>
 		<class>tech.lapsa.eurasia.domain.CompanyContactEmail</class>
 		<class>tech.lapsa.eurasia.domain.CompanyContactPhone</class>

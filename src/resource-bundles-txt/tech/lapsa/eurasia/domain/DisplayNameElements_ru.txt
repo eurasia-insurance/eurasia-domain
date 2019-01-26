@@ -7,7 +7,3 @@ tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_CONTACT_EMAIL = Конта
 tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_CONTACT_EMAIL_UNDEFINED = Не задан
 
 tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_POINT_OF_SALE = Офис продаж
-
-tech.lapsa.eurasia.domain.DisplayNameElements.GEO_POINT = Географические координаты
-tech.lapsa.eurasia.domain.DisplayNameElements.GEO_POINT_LAT = широта
-tech.lapsa.eurasia.domain.DisplayNameElements.GEO_POINT_LNG = долгота
