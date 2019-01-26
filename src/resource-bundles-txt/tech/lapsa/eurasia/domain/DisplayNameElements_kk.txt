@@ -7,7 +7,3 @@ tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_CONTACT_EMAIL = =KAZ= Ко
 tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_CONTACT_EMAIL_UNDEFINED = =KAZ= Не задан
 
 tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_POINT_OF_SALE = =KAZ= Офис продаж
-
-tech.lapsa.eurasia.domain.DisplayNameElements.GEO_POINT = =KAZ= Географические координаты
-tech.lapsa.eurasia.domain.DisplayNameElements.GEO_POINT_LAT = =KAZ= широта
-tech.lapsa.eurasia.domain.DisplayNameElements.GEO_POINT_LNG = =KAZ= долгота

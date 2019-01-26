@@ -33,9 +33,6 @@ import tech.lapsa.patterns.domain.HashCodePrime;
 @Entity
 @Table(name = "POS", indexes = { //
 	@Index(name = "POS_IDX01", columnList = "IS_AVAILABLE"), //
-	@Index(name = "POS_IDX02", columnList = "IS_AVAILABLE,IS_PICKUP_AVAILABLE"), //
-	@Index(name = "POS_IDX03", columnList = "IS_AVAILABLE,IS_DELIVERY_SERVICE_AVAILABLE"), //
-	@Index(name = "POS_IDX04", columnList = "IS_AVAILABLE,IS_PICKUP_AVAILABLE,IS_DELIVERY_SERVICE_AVAILABLE"), //
 	//
 })
 @HashCodePrime(3)
@@ -92,15 +89,6 @@ public class CompanyPointOfSale extends EntitySuperclass {
 	return address;
     }
 
-    // geoPoint
-
-    @Embedded
-    private GeoPoint geoPoint;
-
-    public GeoPoint getGeoPoint() {
-	return geoPoint;
-    }
-
     // available
 
     @Basic
@@ -109,36 +97,6 @@ public class CompanyPointOfSale extends EntitySuperclass {
 
     public boolean isAvailable() {
 	return available;
-    }
-
-    // companyOwnOffice
-
-    @Basic
-    @Column(name = "IS_OWN_OFFICE")
-    private boolean companyOwnOffice;
-
-    public boolean isCompanyOwnOffice() {
-	return companyOwnOffice;
-    }
-
-    // pickupAvailable
-
-    @Basic
-    @Column(name = "IS_PICKUP_AVAILABLE")
-    private boolean pickupAvailable;
-
-    public boolean isPickupAvailable() {
-	return pickupAvailable;
-    }
-
-    // deliveryServicesAvailable
-
-    @Basic
-    @Column(name = "IS_DELIVERY_SERVICE_AVAILABLE")
-    private boolean deliveryServicesAvailable;
-
-    public boolean isDeliveryServicesAvailable() {
-	return deliveryServicesAvailable;
     }
 
     // phones
