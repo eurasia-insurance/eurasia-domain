@@ -6,4 +6,4 @@ tech.lapsa.eurasia.domain.DisplayNameElements.POST_ADDRESS = =KAZ= Почтов�
 tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_CONTACT_EMAIL = =KAZ= Контактный email
 tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_CONTACT_EMAIL_UNDEFINED = =KAZ= Не задан
 
-tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_POINT_OF_SALE = =KAZ= Офис продаж
+tech.lapsa.eurasia.domain.DisplayNameElements.COMPANY_POINT_OF_SALE = Сату кеңсесі
